@@ -50,3 +50,19 @@ Aplikasi ini dilisensikan di bawah Lisensi MIT. Silakan merujuk ke file `LICENSE
 Sesuaikan bagian-bagian yang perlu disesuaikan, seperti langkah-langkah untuk menjalankan aplikasi pada lingkungan lokal Anda dan pengaturan koneksi database. Juga, pastikan untuk menyertakan struktur tabel dalam file `db.sql` agar pengguna dapat membuat tabel dengan benar sebelum menjalankan aplikasi.
 
 Perlu diingat bahwa readme dapat disesuaikan dengan kebutuhan dan preferensi Anda, jadi pastikan untuk menyesuaikannya sesuai dengan informasi dan panduan yang Anda anggap relevan untuk pengguna aplikasi ini.
+
+## Tampilan
+
+Menambahkan Kursus Baru
+
+![image](https://github.com/Bagas713/YhC-QuIP-Batch5/assets/109123174/d54ab95e-53e1-4245-8629-19193b63b0a7)
+
+Menambahkan Materi Baru
+
+![image](https://github.com/Bagas713/YhC-QuIP-Batch5/assets/109123174/bd05205e-6c39-43bc-bd96-9c8e300bfb34)
+
+Form Edit
+
+![image](https://github.com/Bagas713/YhC-QuIP-Batch5/assets/109123174/79234653-d053-40ce-8bd7-efbac136308c)
+
+
